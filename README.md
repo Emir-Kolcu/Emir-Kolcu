@@ -1,7 +1,7 @@
 ## Hi, I'm Emir 👋
 
 ### 💻 Languages & Tools
-![skills](https://skillicons.dev/icons?i=html,css,js,ts,cs,dotnet,mysql,postgres,docker,nginx,apache,git,powershell&theme=dark)
+![skills](https://skillicons.dev/icons?i=html,css,js,ts,cs,dotnet,mysql,postgres,docker,git,powershell&theme=light)
 
 ### 🐍 Contribution Snake
 <picture>
