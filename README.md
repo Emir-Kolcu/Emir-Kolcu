@@ -15,4 +15,4 @@
 </picture>
 
 ---
-[![](https://komarev.com/ghpvc/?username=Emir-Kolcu&icon=0&color=5)](https://visitcount.itsvg.in)
+[![](https://komarev.com/ghpvc/?username=Emir-Kolcu&color=blueviolet&style=flat-square)](https://visitcount.itsvg.in)
